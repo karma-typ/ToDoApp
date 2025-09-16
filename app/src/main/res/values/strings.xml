@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="createDate">Create Date: %1$s</string>
+    <string name="changeDate">Change Date: %1$s</string>
+
+    <string name="ToDoItem">Item to do</string>
+
+    <string name="textViewPriority">Priority: </string>
+
+
+
+    <string name="low">low</string>
+    <string name="usual">usual</string>
+    <string name="emergency">emergency</string>
+
+    <string-array name="spinnerPriority">
+        <item>@string/low</item>
+        <item>@string/usual</item>
+        <item>@string/emergency</item>
+    </string-array>
+
+</resources>

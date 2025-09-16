@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">@color/systemGreen</item>
+        <item name="android:navigationBarColor">@color/systemGreen</item>
+    </style>
+
+
+    <string name="button_text">night</string>
+    <color name="goodBackGround">@color/gray</color>
+    <color name="systemGreen">@color/salat</color>
+    <color name="systemNotGreen">@color/notGreen</color>
+</resources>

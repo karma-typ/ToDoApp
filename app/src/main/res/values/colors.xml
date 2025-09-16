@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="salat">#20705F</color>
+    <color name="gray">#556556</color>
+    <color name="light_salat">#4CAF50</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="notGreen">#009688</color>
+    <color name="lowPriority">#20705F</color>
+    <color name="usualPriority">#FFC107</color>
+    <color name="emergencyPriority">#F44336</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name = "layout_weightSum">40</dimen>
+    <dimen name = "layout_weightMainText">28</dimen>
+    <dimen name = "layout_weightCheck">4</dimen>
+    <dimen name = "layout_weightDates">8</dimen>
+
+
+</resources>
